@@ -33,7 +33,10 @@ Este proyecto analiza la evasión de clientes de Telecom X, con el objetivo de c
 ---
 
 ## 📊 Insights / Conclusiones
-- Insert key findings here / Aquí se resumen los hallazgos más importantes
+- Most churn occurs in customers with shorter tenure or month-to-month contracts / La mayor parte de la evasión ocurre en clientes con menor antigüedad o contratos mes a mes
+- Certain services (like online security or tech support) seem correlated with lower churn /  Algunos servicios (como seguridad en línea o soporte técnico) parecen estar asociados a menor churn
+- These findings can guide retention strategies and predictive modeling / Estos hallazgos pueden orientar estrategias de retención y modelos predictivos
+
 
 ---
 
