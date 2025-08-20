@@ -38,4 +38,4 @@ Este proyecto analiza la evasión de clientes de Telecom X, con el objetivo de c
 ---
 
 ## Notebook / Notebook
-[Colab Notebook Link](https://colab.research.google.com/drive/1qQyUx_Dxdbn7GeFlUn6?usp=sharing)
+[Colab Notebook Link]([https://colab.research.google.com/drive/1qQyUx_Dxdbn7GeFlUn6?usp=sharing](https://colab.research.google.com/drive/1qQyUx_Dxdbn7GeFlUn6c37DnhLW78JT6?usp=sharing))
